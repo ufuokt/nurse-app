@@ -6,7 +6,7 @@
 	<groupId>com.softtech</groupId>
 	<artifactId>nurse1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>nurse1</name>
 	<description>Nurse kata for microservices TCG</description>
